@@ -17,10 +17,11 @@
 </div>
 
 
-### 📫 Contact  
-- Email: [joselongoneto@gmail.com](mailto:joselongoneto@gmail.com)  
-- LinkedIn: [linkedin.com/in/jose-longo](https://www.linkedin.com/in/jose-longo)  
-- Portfolio: [jose-longo-a.github.io/Portfolio](https://jose-longo-a.github.io/Portfolio)
+### 💬 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-longo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://jose-longo-a.github.io/Portfolio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joselongoneto@gmail.com)
+
 
 
 <!--
