@@ -1,27 +1,35 @@
-# 👋 Hi, I'm José Longo Neto  
-🎓 Data Science and Business student at ESPM | 📊 Passionate about Data Analysis, Automation, and Innovation  
+<h1 align="center">👋 Hi, I'm José Longo Neto</h1>
 
-💼 Currently developing academic and personal projects focused on data manipulation, visualization, and process optimization.  
-🌱 Always learning new technologies and methodologies like Python, SQL, Power BI, and Scrum.
+<p align="center">
+🎓 Data Science and Business student at <b>ESPM</b> <br>
+📊 Passionate about Data Analysis, Automation, and Business Intelligence <br>
+💡 Always learning and exploring new technologies!
+</p>
 
-### 🧠 Tech Stack  
-- **Languages:** Python | SQL | R | Java | HTML/CSS/JS  
-- **Tools:** Tableau | Power BI | Excel | GitHub | Jira  
-- **Methodologies:** Scrum | Agile practices
+---
 
-## 📈 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jose-Longo-A&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Longo-A&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-longo-a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-longo-a&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+---
 
-### 💬 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-longo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://jose-longo-a.github.io/Portfolio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joselongoneto@gmail.com)
+## 📫 Connect with Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jose-longo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:joselongoneto@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://jose-longo-a.github.io/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 
 <!--
