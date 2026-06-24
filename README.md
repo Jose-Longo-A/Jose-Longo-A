@@ -6,12 +6,12 @@
 
 <p>
 🇺🇸 Data Science and Systems student at ESPM, interning in sales operations.<br/>
-I work with Tableau, Salesforce, SAP and Snowflake, build web apps with React + FastAPI, and make Minecraft videos on the side.
+I work with Tableau, Salesforce, SAP and Snowflake, build web apps with React + FastAPI.
 </p>
 
 <p>
 🇧🇷 Estudante de Sistemas de Informação e Data Science na ESPM, estagiando em sales operations.<br/>
-Trabalho com Tableau, Salesforce, SAP e Snowflake, construo apps web com React + FastAPI e faço vídeos de Minecraft nas horas vagas.
+Trabalho com Tableau, Salesforce, SAP e Snowflake, construo apps web com React + FastAPI.
 </p>
 
 <!--
@@ -30,13 +30,13 @@ Now / Agora (opcional — é só descomentar e preencher):
 ## Connect / Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jose-longo" target="_blank">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-longo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:joselongoneto@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://jose-longo-a.github.io/Portfolio" target="_blank">
+  <a href="https://jose-longo.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://twitch.tv/apolo_jl" target="_blank">
